@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MoviesRegister\\sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACB2D66-8361-4592-9EF2-10D4F3BF992F}|..\\src\\MoviesRegister.csproj|c:\\moviesregister\\src\\ui\\principalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACB2D66-8361-4592-9EF2-10D4F3BF992F}|..\\src\\MoviesRegister.csproj|c:\\moviesregister\\src\\ui\\principalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACB2D66-8361-4592-9EF2-10D4F3BF992F}|..\\src\\MoviesRegister.csproj|c:\\moviesregister\\src\\ui\\principalform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACB2D66-8361-4592-9EF2-10D4F3BF992F}|..\\src\\MoviesRegister.csproj|c:\\moviesregister\\src\\ui\\principalform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACB2D66-8361-4592-9EF2-10D4F3BF992F}|..\\src\\MoviesRegister.csproj|c:\\moviesregister\\src\\ui\\moviesform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACB2D66-8361-4592-9EF2-10D4F3BF992F}|..\\src\\MoviesRegister.csproj|c:\\moviesregister\\src\\ui\\moviesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACB2D66-8361-4592-9EF2-10D4F3BF992F}|..\\src\\MoviesRegister.csproj|c:\\moviesregister\\src\\ui\\moviesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACB2D66-8361-4592-9EF2-10D4F3BF992F}|..\\src\\MoviesRegister.csproj|c:\\moviesregister\\src\\ui\\moviesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesForm.Designer.cs",
+              "DocumentMoniker": "C:\\MoviesRegister\\src\\UI\\MoviesForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\src\\UI\\MoviesForm.Designer.cs",
+              "ToolTip": "C:\\MoviesRegister\\src\\UI\\MoviesForm.Designer.cs",
+              "RelativeToolTip": "..\\src\\UI\\MoviesForm.Designer.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAEwAUBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:12:31.035Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrincipalForm.resx",
+              "DocumentMoniker": "C:\\MoviesRegister\\src\\UI\\PrincipalForm.resx",
+              "RelativeDocumentMoniker": "..\\src\\UI\\PrincipalForm.resx",
+              "ToolTip": "C:\\MoviesRegister\\src\\UI\\PrincipalForm.resx",
+              "RelativeToolTip": "..\\src\\UI\\PrincipalForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-19T02:18:01.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrincipalForm.cs [Design]",
+              "DocumentMoniker": "C:\\MoviesRegister\\src\\UI\\PrincipalForm.cs",
+              "RelativeDocumentMoniker": "..\\src\\UI\\PrincipalForm.cs",
+              "ToolTip": "C:\\MoviesRegister\\src\\UI\\PrincipalForm.cs [Design]",
+              "RelativeToolTip": "..\\src\\UI\\PrincipalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:17:20.451Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrincipalForm.Designer.cs",
+              "DocumentMoniker": "C:\\MoviesRegister\\src\\UI\\PrincipalForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\src\\UI\\PrincipalForm.Designer.cs",
+              "ToolTip": "C:\\MoviesRegister\\src\\UI\\PrincipalForm.Designer.cs",
+              "RelativeToolTip": "..\\src\\UI\\PrincipalForm.Designer.cs",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAEwAgBAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:17:14.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoviesForm.resx",
+              "DocumentMoniker": "C:\\MoviesRegister\\src\\UI\\MoviesForm.resx",
+              "RelativeDocumentMoniker": "..\\src\\UI\\MoviesForm.resx",
+              "ToolTip": "C:\\MoviesRegister\\src\\UI\\MoviesForm.resx",
+              "RelativeToolTip": "..\\src\\UI\\MoviesForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-19T02:17:07.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrincipalForm.cs",
+              "DocumentMoniker": "C:\\MoviesRegister\\src\\UI\\PrincipalForm.cs",
+              "RelativeDocumentMoniker": "..\\src\\UI\\PrincipalForm.cs",
+              "ToolTip": "C:\\MoviesRegister\\src\\UI\\PrincipalForm.cs",
+              "RelativeToolTip": "..\\src\\UI\\PrincipalForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:25:21.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesForm.cs [Design]",
+              "DocumentMoniker": "C:\\MoviesRegister\\src\\UI\\MoviesForm.cs",
+              "RelativeDocumentMoniker": "..\\src\\UI\\MoviesForm.cs",
+              "ToolTip": "C:\\MoviesRegister\\src\\UI\\MoviesForm.cs [Design]",
+              "RelativeToolTip": "..\\src\\UI\\MoviesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:16:48.218Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoviesForm.cs",
+              "DocumentMoniker": "C:\\MoviesRegister\\src\\UI\\MoviesForm.cs",
+              "RelativeDocumentMoniker": "..\\src\\UI\\MoviesForm.cs",
+              "ToolTip": "C:\\MoviesRegister\\src\\UI\\MoviesForm.cs",
+              "RelativeToolTip": "..\\src\\UI\\MoviesForm.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA4wCEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:31:07.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

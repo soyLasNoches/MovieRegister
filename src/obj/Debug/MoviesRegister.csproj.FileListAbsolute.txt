@@ -1,0 +1,26 @@
+D:\Pasta de Trabalho\LyonControl\trunk\utils\utilitários\MoviesRegister\src\obj\Debug\MoviesRegister.csproj.AssemblyReference.cache
+D:\Pasta de Trabalho\LyonControl\trunk\utils\utilitários\MoviesRegister\src\obj\Debug\MoviesRegister.Properties.Resources.resources
+D:\Pasta de Trabalho\LyonControl\trunk\utils\utilitários\MoviesRegister\src\obj\Debug\MoviesRegister.csproj.GenerateResource.cache
+D:\Pasta de Trabalho\LyonControl\trunk\utils\utilitários\MoviesRegister\src\obj\Debug\MoviesRegister.csproj.CoreCompileInputs.cache
+D:\Pasta de Trabalho\LyonControl\trunk\utils\utilitários\MoviesRegister\bin\MoviesRegister.exe.config
+D:\Pasta de Trabalho\LyonControl\trunk\utils\utilitários\MoviesRegister\bin\MoviesRegister.exe
+D:\Pasta de Trabalho\LyonControl\trunk\utils\utilitários\MoviesRegister\bin\MoviesRegister.pdb
+D:\Pasta de Trabalho\LyonControl\trunk\utils\utilitários\MoviesRegister\src\obj\Debug\MoviesRegister.csproj.CopyComplete
+D:\Pasta de Trabalho\LyonControl\trunk\utils\utilitários\MoviesRegister\src\obj\Debug\MoviesRegister.exe
+D:\Pasta de Trabalho\LyonControl\trunk\utils\utilitários\MoviesRegister\src\obj\Debug\MoviesRegister.pdb
+D:\Pasta de Trabalho\LyonControl\trunk\utils\utilitários\MoviesRegister\src\obj\Debug\MoviesRegister.Base.BaseForm.resources
+D:\Pasta de Trabalho\LyonControl\trunk\utils\utilitários\MoviesRegister\src\obj\Debug\MoviesRegister.PrincipalForm.resources
+D:\Pasta de Trabalho\LyonControl\trunk\utils\utilitários\MoviesRegister\src\obj\Debug\MoviesRegister.UI.MoviesForm.resources
+C:\MoviesRegister\bin\MoviesRegister.exe.config
+C:\MoviesRegister\bin\MoviesRegister.exe
+C:\MoviesRegister\bin\MoviesRegister.pdb
+C:\MoviesRegister\src\obj\Debug\MoviesRegister.csproj.AssemblyReference.cache
+C:\MoviesRegister\src\obj\Debug\MoviesRegister.Base.BaseForm.resources
+C:\MoviesRegister\src\obj\Debug\MoviesRegister.PrincipalForm.resources
+C:\MoviesRegister\src\obj\Debug\MoviesRegister.Properties.Resources.resources
+C:\MoviesRegister\src\obj\Debug\MoviesRegister.UI.MoviesForm.resources
+C:\MoviesRegister\src\obj\Debug\MoviesRegister.csproj.GenerateResource.cache
+C:\MoviesRegister\src\obj\Debug\MoviesRegister.csproj.CoreCompileInputs.cache
+C:\MoviesRegister\src\obj\Debug\MoviesRegister.exe
+C:\MoviesRegister\src\obj\Debug\MoviesRegister.pdb
+C:\MoviesRegister\src\obj\Debug\MoviesRe.DDDD57F8.Up2Date
